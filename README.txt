@@ -1,25 +1,24 @@
 ======================================================================
 •▀			    xlAppScript Setup Guide		            
 ======================================================================
-Written by: anz7re (André)
+Written by: André
 
 ----------------------------------------------------------------------
 Latest Revision:
 
-1/31/2023
+4/8/2026
 
 ----------------------------------------------------------------------
 Developer(s): 
 
-anz7re (André)
+André
 
 ----------------------------------------------------------------------
 Contact:
 
-Email: support@xlappscript.org | support@autokit.tech | anz7re@autokit.tech
-Social: @anz7re | @xlAppScript | @AutokitTech 
-Web: xlappscript.org | autokit.tech/xlappscript
-Donate: $donateautokitdevs
+Email: xlappscript@gmail.com | andreissoftware@gmail.com
+Social: @xlAppScript
+Web: xlappscript.dev
 
 (Don't hesitate to reach out if you're having any issues!)
 
@@ -29,7 +28,7 @@ xlAppScript is a modifiable, automation scripting tool namely for Microsoft Exce
 
 License Information:
 
-Copyright (C) 2022-present, Autokit Technology.
+Copyright (C) 2022-present, xlAppScript Software Foundaton.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
