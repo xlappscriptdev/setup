@@ -23,7 +23,7 @@ Web: xlappscript.dev
 (Don't hesitate to reach out if you're having any issues!)
 
 /====================================================================================================================\
-xlAppScript is a modifiable, automation scripting tool namely for Microsoft Excel (VBA), Windows OS, & Autokit applications.
+xlAppScript is a modifiable, automation scripting tool namely for Microsoft Excel (VBA), Windows OS, and xlAppScript hosted applications.
 /====================================================================================================================/
 
 License Information:
